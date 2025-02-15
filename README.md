@@ -54,3 +54,4 @@ I recently completed **PwC Switzerland’s Power BI Virtual Experience** on Fora
 ✔ Communicated findings effectively through concise, insightful reports.  
 ✔ Applied analytical problem-solving to HR data, identifying gender balance issues at the executive level and providing data-driven recommendations.  
 
+![Image](https://github.com/user-attachments/assets/15e41182-6492-407c-83f1-dee3661d63bc)
